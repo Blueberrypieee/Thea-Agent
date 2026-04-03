@@ -1,0 +1,10 @@
+# Core
+requests
+python-dotenv
+
+# Google Sheets
+gspread
+google-auth
+
+# Telegram Bot
+python-telegram-bot==20.7

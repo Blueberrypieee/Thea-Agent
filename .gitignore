@@ -1,0 +1,27 @@
+# ===== ENV (WAJIB BANGET) =====
+.env
+
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+
+# ===== VIRTUAL ENV =====
+venv/
+.env*
+
+# ===== LOGS =====
+logs/
+*.log
+
+# ===== TERMUX / ANDROID =====
+*.tmp
+*.bak
+
+# ===== SYSTEM FILES =====
+.DS_Store
+Thumbs.db
+*.json
+
+# ===== EDITOR =====
+.vscode/
+.idea/
